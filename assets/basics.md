@@ -20,7 +20,6 @@
 ### HTTP basics
 In order to be able to learn what and how an application works, you need to be able to understand how you are communicating with it. This section is dedicated to all the resources to understand the HTTP basics.
 - [All in one resource](https://www.hacker101.com/sessions/web_in_depth)
-- [HTTP DEV](https://http.dev)
 	- HTTP basics
    - Cookie security
    - HTML parsing
@@ -28,6 +27,7 @@ In order to be able to learn what and how an application works, you need to be a
    - Encoding sniffing
    - Same-Origin Policy
    - CSRF (Cross-Site Request Forgery)
+- [All about HTTP](https://http.dev)
 - [Request form](https://www.tutorialspoint.com/http/http_requests.htm)
 - [Response form](https://www.tutorialspoint.com/http/http_responses.htm)
 - [Response codes](https://www.tutorialspoint.com/http/http_status_codes.htm)
